@@ -1,0 +1,2 @@
+comando para clonar repositorio do github para o pc
+git remote add origin https://github.com/plinio-leal/modulo_git.git
