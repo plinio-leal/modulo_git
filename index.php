@@ -10,8 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        
+        <?php
        <h1> Minha index foi alterada! </h1>
-       
+        ?>
     </body>
 </html>
